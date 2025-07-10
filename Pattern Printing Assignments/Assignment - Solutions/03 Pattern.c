@@ -11,7 +11,6 @@ int main()
     scanf("%d",&c);
 
     printf("\n");
-
     for(i=1; i<=r; i++)
     {
         for(j=1; j<=c; j++)
