@@ -16,7 +16,6 @@ int main()
     {
         printf("\nGiven %d is Odd Number.",No);
     }
-
     getch();
     return 0;
 }

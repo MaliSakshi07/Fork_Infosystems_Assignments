@@ -16,7 +16,6 @@ int main()
     Mult = No1 * No2;
 
     printf("\nMultiplication of %d and %d = %d",No1,No2,Mult);
-
     getch();
     return 0;
 }
