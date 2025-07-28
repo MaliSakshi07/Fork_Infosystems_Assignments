@@ -18,6 +18,7 @@ int main()
     {
         printf("\nGiven %d Number is Greater.",No2);
     }
+    
     getch();
     return 0;
 }
