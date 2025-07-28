@@ -16,7 +16,6 @@ int main()
     {
         printf("\nGiven %d Number is Negative.",No);
     }
-
     getch();
     return 0;
 }
