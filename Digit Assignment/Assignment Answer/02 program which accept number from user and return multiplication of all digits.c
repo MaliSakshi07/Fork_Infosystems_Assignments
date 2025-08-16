@@ -15,7 +15,6 @@ int main()
         No /= 10;
     }
     printf("\nMultiplication of Number is : %d",mult);
-
     getch();
     return 0;
 }

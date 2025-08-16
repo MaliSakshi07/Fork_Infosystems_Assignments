@@ -15,7 +15,7 @@ int main()
         No /= 10;
     }
     printf("Sum = %d ",sum);
-
+    
     getch();
     return 0;
 }
