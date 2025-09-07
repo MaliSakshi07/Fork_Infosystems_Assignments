@@ -16,7 +16,6 @@ int main()
         temp /=10;
     }
     printf("Reverse Number is : %d",rev);
-
     getch();
     return 0;
 }
